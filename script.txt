@@ -1,0 +1,30 @@
+task -
+humme ek route banana hee jisme ek page show hoo  aur waha par ek css use karta hua page dikhe
+
+1)make a file script.js 
+
+//express js
+//install
+//express js boilerplate code
+    //go to npm
+    //search express
+    //copy the code
+    
+//express js ejs setup
+    //install ejs(npm i ejs)
+    //set view engine
+    //create views folder
+    //create ejs files
+    //render ejs files inside route
+            //send ke jagah render karengee
+            //views kee andrr ek hee file hee index.ejs
+            app.get('/', function (req, res) {
+                res.render('index')
+            })
+// express static files setup
+//architecture of public folder
+
+//must write this css 
+//<link rel="stylesheet" href="/stylesheets/style.css">
+
+
